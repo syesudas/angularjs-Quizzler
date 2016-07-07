@@ -5,6 +5,13 @@
 
 ---
 
+### Installation
+
+Coffee Script - npm install -g coffee-script
+Grunt - npm install -g grunt-cli
+http-proxy - npm install -g http-proxy
+
+
 ### Purpose of a Challenge
 
 The purpose of the challenge is to present a **work-from-home** challenge to developers interviewing for positions on AngularJS projects. Their **challenge** is to create an online HTML5 application... And I preface the request with a comment that this is a non-trivial request imposed on the candidate.
